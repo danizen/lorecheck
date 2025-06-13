@@ -9,4 +9,6 @@ dependencies = [
     "langchain-community>=0.3.25",
     "langchain-core>=0.3.65",
     "langchain-huggingface>=0.3.0",
+    "mwxml>=0.3.6",
+    "tqdm>=4.67.1",
 ]
